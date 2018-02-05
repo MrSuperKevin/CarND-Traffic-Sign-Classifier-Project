@@ -1,4 +1,8 @@
 ## Project: Build a Traffic Sign Recognition Program
+
+The report is in report.md file. And the ipython notebook is Traffic_Sign_Classifier.ipynb which saves the code and main processes.
+
+---
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 Overview
